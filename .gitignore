@@ -1,0 +1,16 @@
+# Project
+data/
+
+# Python
+__pycache__/
+*.ipynb
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
