@@ -1,0 +1,1 @@
+UPBIT_BASE_URL = 'https://crix-api-endpoint.upbit.com/v1/crix'
